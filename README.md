@@ -1,1 +1,1 @@
-CSE4500 Midterm Project 
+Inventory Management System
